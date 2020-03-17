@@ -1,12 +1,12 @@
 var config = {
-    apiKey: "AIzaSyDD65yf0aOiKnjRdjAUSkeJ7bKST_Xl8f0",
-    authDomain: "denver-bootcamp-jt.firebaseapp.com",
-    databaseURL: "https://denver-bootcamp-jt.firebaseio.com",
-    projectId: "denver-bootcamp-jt",
-    storageBucket: "denver-bootcamp-jt.appspot.com",
-    messagingSenderId: "615190839938",
-    appId: "1:615190839938:web:d027f05f8f7cb70dfe2a9b",
-    measurementId: "G-PW2F0ZSZBP"
+  apiKey: "AIzaSyDcmLkmNUnc_9rmVi_AjLdaIvRGLxcJj1Y",
+  authDomain: "portal-homework.firebaseapp.com",
+  databaseURL: "https://portal-homework.firebaseio.com",
+  projectId: "portal-homework",
+  storageBucket: "portal-homework.appspot.com",
+  messagingSenderId: "316081790043",
+  appId: "1:316081790043:web:320c083ea364050b8b737e",
+  measurementId: "G-0LB3FYK3F7"
 };
 
 firebase.initializeApp(config);
